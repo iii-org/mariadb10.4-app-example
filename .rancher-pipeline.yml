@@ -18,9 +18,9 @@ stages:
           db.gui: true
           # 使用者參數(資料庫)
           db.type: mariadb
-          db.tag: 10.5
+          db.tag: 10.4
           # 使用者參數(資料庫)帳號密碼
-          db.username: bear33
-          db.password: bearisbear33
+          db.username: bear104
+          db.password: bearisbear104
           # 使用者參數(資料庫)資料庫名稱
-          db.name: health33
+          db.name: health104
