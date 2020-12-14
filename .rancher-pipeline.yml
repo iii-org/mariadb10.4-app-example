@@ -20,7 +20,7 @@ stages:
           db.type: mariadb
           db.tag: latest
           # 使用者參數(資料庫)帳號密碼
-          db.username: bear22
-          db.password: bearisbear22
+          db.username: bear33
+          db.password: bearisbear33
           # 使用者參數(資料庫)資料庫名稱
-          db.name: health22
+          db.name: health33
